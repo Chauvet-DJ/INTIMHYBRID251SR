@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V2.4 - Intimidator Hybrid 251SR](https://github.com/Chauvet-DJ/INTIMHYBRID251SR/blob/26aaeffed920948870cc77b69db7ea0ac206e23b/Firmware/V2.4_11-04-24.zip)
+- Fixed a bug where the display would go black when a USB stick was inserted
+
 [V2.3 - Intimidator Hybrid 251SR](https://github.com/Chauvet-DJ/INTIMHYBRID251SR/blob/847ef7eba9edb1990def2890f26fce5bc109ec48/Firmware/V2.3_08-02-24.zip)
 - Fixed reset bug
 
